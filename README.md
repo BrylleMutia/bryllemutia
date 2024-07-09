@@ -30,6 +30,7 @@ A passionate software developer driven by creating innovative and impactful solu
 
     Fullstack Web Development / Frontend Web Development
 
+<br>
 I'm always open to collaboration and learning new things. Feel free to reach out! 👋
 
 
