@@ -1,4 +1,4 @@
-### Brylle MUtia 💻
+### Brylle Mutia 💻
 
 A passionate software developer driven by creating innovative and impactful solutions.
 
