@@ -32,6 +32,7 @@ A passionate software developer driven by creating innovative and impactful solu
 
 <br>
 I'm always open to collaboration and learning new things. Feel free to reach out! 👋
+<br>
 
-
+#### Stats:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryllemutia&theme=default&hide_border=true)
