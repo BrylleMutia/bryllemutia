@@ -6,8 +6,8 @@ A passionate software developer driven by creating innovative and impactful solu
 
     Frontend Tecnologies: HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Next.js, Redux
     Backend Technologies: Python, Flask, Firebase, SQL, Azure OpenAI
-    Tools & Technologies: Git, VS Code, Postman, Oracle HCM
-    Focus Area: Fullstack Web Development / Frontend Web Development
+    Tools: Git, VS Code, Postman, Oracle HCM
+    Focus Area: Fullstack Web Development / Frontend Web Development / Generative AI
 
 #### Projects:
 
