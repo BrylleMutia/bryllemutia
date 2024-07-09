@@ -11,7 +11,7 @@ A passionate software developer driven by creating innovative and impactful solu
 
 #### Projects:
 
-    + ChatAMS GenAI: Application support chat for developers, powered by Generative AI.  
+    + [ChatAMS GenAI](https://chatams-beta.netlify.app/): Application support chat for developers, powered by Generative AI.  
     + Spendr: Money manager webapp with analytics and dashboard.
     + Krypto Next: Landing page for a marketplace made for buying and selling unique crypto assets. 
 
