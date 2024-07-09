@@ -24,6 +24,7 @@ A passionate software developer driven by creating innovative and impactful solu
 
 [bryllemutia.info](https://www.bryllemutia.info)
 
+<br>
 
 #### Looking for opportunities to:
 
