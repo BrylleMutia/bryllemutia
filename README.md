@@ -22,7 +22,7 @@ A passionate software developer driven by creating innovative and impactful solu
 
 #### Connect with me:
 
-    [bryllemutia.info](https://www.bryllemutia.info)
+[bryllemutia.info](https://www.bryllemutia.info)
 
 #### Looking for opportunities to:
 
