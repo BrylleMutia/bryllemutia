@@ -17,7 +17,8 @@ A passionate software developer driven by creating innovative and impactful solu
 
 #### Currently:
 
-    Working at Accenture, Inc. as an Application Development Analyst. Developed and maintained SaaS platforms, web applications utilizing Generative AI technologies.
+    Working at Accenture, Inc. as an Application Development Analyst. 
+    Developed and maintained SaaS platforms, web applications utilizing Generative AI technologies.
 
 #### Connect with me:
 
